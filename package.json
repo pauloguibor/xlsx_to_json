@@ -1,0 +1,15 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "fazendo xlsx para json",
+  "main": "xlsx_to_json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo Vitor Guibor",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "xlsx": "^0.18.0"
+  }
+}
